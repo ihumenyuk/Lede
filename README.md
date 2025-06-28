@@ -10,3 +10,4 @@ These are homework assignments for Columbia Journalism School's [Lede Data Journ
 ## Contact
 
 Iryna Humenyuk, [iryna.humenyuk@columbia.edu](mailto:iryna.humenyuk@columbia.edu)
+
